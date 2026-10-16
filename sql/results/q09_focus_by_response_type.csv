@@ -1,0 +1,10 @@
+product,company_response,focus_complaints,focus_share_pct,peer_share_pct
+Checking or savings account,Closed with explanation,7263,89.03,81.63
+Checking or savings account,Closed with monetary relief,648,7.94,12.62
+Checking or savings account,Closed with non-monetary relief,247,3.03,5.75
+Credit card,Closed with explanation,916,86.5,69.83
+Credit card,Closed with non-monetary relief,89,8.4,12.59
+Credit card,Closed with monetary relief,54,5.1,17.59
+Money transfer / virtual currency,Closed with explanation,1969,94.3,94.59
+Money transfer / virtual currency,Closed with monetary relief,77,3.69,3.41
+Money transfer / virtual currency,Closed with non-monetary relief,42,2.01,2.0

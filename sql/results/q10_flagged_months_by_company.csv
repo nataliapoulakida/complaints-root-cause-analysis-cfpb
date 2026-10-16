@@ -1,0 +1,19 @@
+month_start,product,rank,company,complaints,share_of_month_pct,month_total
+2025-01-01,Checking or savings account,1,NAVY FEDERAL CREDIT UNION,7411,40.3,18367.0
+2025-01-01,Checking or savings account,2,CAPITAL ONE FINANCIAL CORPORATION,4759,25.9,18367.0
+2025-01-01,Checking or savings account,3,JPMORGAN CHASE & CO.,893,4.9,18367.0
+2025-01-01,Checking or savings account,4,WELLS FARGO & COMPANY,798,4.3,18367.0
+2025-01-01,Checking or savings account,5,"BANK OF AMERICA, NATIONAL ASSOCIATION",613,3.3,18367.0
+2025-01-01,Checking or savings account,6,"Block, Inc.",523,2.8,18367.0
+2025-01-01,Money transfer / virtual currency,1,"Block, Inc.",30466,61.2,49743.0
+2025-01-01,Money transfer / virtual currency,2,"Early Warning Services, LLC",16521,33.2,49743.0
+2025-01-01,Money transfer / virtual currency,3,JPMORGAN CHASE & CO.,516,1.0,49743.0
+2025-01-01,Money transfer / virtual currency,4,"BANK OF AMERICA, NATIONAL ASSOCIATION",358,0.7,49743.0
+2025-01-01,Money transfer / virtual currency,5,"Paypal Holdings, Inc",342,0.7,49743.0
+2025-01-01,Money transfer / virtual currency,6,WELLS FARGO & COMPANY,328,0.7,49743.0
+2025-02-01,Money transfer / virtual currency,1,"Block, Inc.",3397,55.4,6128.0
+2025-02-01,Money transfer / virtual currency,2,"Early Warning Services, LLC",1313,21.4,6128.0
+2025-02-01,Money transfer / virtual currency,3,"Paypal Holdings, Inc",276,4.5,6128.0
+2025-02-01,Money transfer / virtual currency,4,JPMORGAN CHASE & CO.,135,2.2,6128.0
+2025-02-01,Money transfer / virtual currency,5,WELLS FARGO & COMPANY,119,1.9,6128.0
+2025-02-01,Money transfer / virtual currency,6,"Coinbase, Inc.",113,1.8,6128.0

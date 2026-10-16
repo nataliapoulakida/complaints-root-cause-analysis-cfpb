@@ -1,0 +1,10 @@
+cut,value,complaints,timely_pct,relief_pct
+all,all,404353,99.3,22.19
+company_type,"Bank, fintech or other",360440,99.21,18.52
+company_type,Credit bureau,43913,100.0,52.31
+focus company,Chime Financial Inc,11305,100.0,10.23
+product,Checking or savings account,137016,99.32,18.01
+product,Credit card,165967,99.71,35.87
+product,Money transfer / virtual currency,101370,98.61,5.43
+year,2024,145561,99.42,29.89
+year,2025,258792,99.23,17.85

@@ -1,0 +1,25 @@
+product,quarter,focus_complaints,focus_relief_pct,peer_relief_pct,gap_pp
+Checking or savings account,2024-01-01,693,4.76,24.15,-19.38
+Checking or savings account,2024-04-01,721,7.35,22.73,-15.38
+Checking or savings account,2024-07-01,701,12.27,21.94,-9.67
+Checking or savings account,2024-10-01,670,17.61,22.38,-4.77
+Checking or savings account,2025-01-01,839,13.95,10.54,3.41
+Checking or savings account,2025-04-01,1109,14.61,18.67,-4.06
+Checking or savings account,2025-07-01,1327,7.61,18.52,-10.91
+Checking or savings account,2025-10-01,2098,10.72,17.85,-7.12
+Credit card,2024-01-01,105,4.76,31.66,-26.9
+Credit card,2024-04-01,84,14.29,33.09,-18.8
+Credit card,2024-07-01,95,12.63,33.18,-20.55
+Credit card,2024-10-01,97,27.84,31.12,-3.28
+Credit card,2025-01-01,126,19.05,29.36,-10.31
+Credit card,2025-04-01,159,18.87,29.7,-10.84
+Credit card,2025-07-01,185,8.65,28.64,-19.99
+Credit card,2025-10-01,208,8.17,26.6,-18.42
+Money transfer / virtual currency,2024-01-01,127,3.15,13.51,-10.36
+Money transfer / virtual currency,2024-04-01,105,6.67,13.48,-6.81
+Money transfer / virtual currency,2024-07-01,105,12.38,12.66,-0.28
+Money transfer / virtual currency,2024-10-01,81,14.81,12.32,2.5
+Money transfer / virtual currency,2025-01-01,169,12.43,1.22,11.2
+Money transfer / virtual currency,2025-04-01,197,8.12,9.26,-1.14
+Money transfer / virtual currency,2025-07-01,289,4.15,11.01,-6.86
+Money transfer / virtual currency,2025-10-01,1015,3.35,10.95,-7.6

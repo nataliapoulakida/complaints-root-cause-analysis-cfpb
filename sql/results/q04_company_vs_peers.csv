@@ -1,0 +1,110 @@
+company,product,complaints,timely_pct,peer_timely_pct,relief_pct,peer_relief_pct,relief_gap_pp
+JPMORGAN CHASE & CO.,Checking or savings account,15973,100.0,99.22,13.18,18.54,-5.36
+WELLS FARGO & COMPANY,Checking or savings account,14986,99.99,99.23,17.69,17.94,-0.25
+NAVY FEDERAL CREDIT UNION,Checking or savings account,13359,100.0,99.24,12.73,18.48,-5.74
+"BANK OF AMERICA, NATIONAL ASSOCIATION",Checking or savings account,11676,99.22,99.32,42.96,15.57,27.39
+CAPITAL ONE FINANCIAL CORPORATION,Checking or savings account,9976,100.0,99.26,7.31,18.75,-11.44
+Chime Financial Inc,Checking or savings account,8158,100.0,99.27,10.97,18.36,-7.38
+"CITIBANK, N.A.",Checking or savings account,6393,100.0,99.28,41.44,16.76,24.68
+"Block, Inc.",Checking or savings account,4531,95.34,99.45,0.0,18.53,-18.53
+TRUIST FINANCIAL CORPORATION,Checking or savings account,3389,100.0,99.3,12.13,18.06,-5.93
+U.S. BANCORP,Checking or savings account,3294,100.0,99.3,23.41,17.78,5.63
+"SOFI TECHNOLOGIES, INC.",Checking or savings account,3222,99.91,99.3,7.6,18.16,-10.56
+PNC Bank N.A.,Checking or savings account,2815,100.0,99.3,11.83,18.04,-6.21
+TD BANK US HOLDING COMPANY,Checking or savings account,2192,100.0,99.3,36.36,17.61,18.75
+UNITED SERVICES AUTOMOBILE ASSOCIATION,Checking or savings account,2170,99.95,99.3,19.77,17.88,1.89
+"CITIZENS FINANCIAL GROUP, INC.",Checking or savings account,1972,100.0,99.31,27.43,17.77,9.66
+GOLDMAN SACHS BANK USA,Checking or savings account,1595,99.75,99.31,1.0,18.11,-17.11
+"Paypal Holdings, Inc",Checking or savings account,1581,99.94,99.31,28.72,17.79,10.93
+BMO BANK NATIONAL ASSOCIATION,Checking or savings account,1486,100.0,99.31,34.72,17.73,17.0
+ALLY FINANCIAL INC.,Checking or savings account,1348,100.0,99.31,34.05,17.75,16.3
+"HUNTINGTON NATIONAL BANK, THE",Checking or savings account,1297,100.0,99.31,43.72,17.67,26.05
+FIFTH THIRD FINANCIAL CORPORATION,Checking or savings account,1242,100.0,99.31,8.45,18.0,-9.55
+"Early Warning Services, LLC",Checking or savings account,1157,99.91,99.31,0.0,18.07,-18.07
+REGIONS FINANCIAL CORPORATION,Checking or savings account,1064,99.91,99.31,28.29,17.83,10.46
+"Fidelity National Information Services, Inc. (FNIS)",Checking or savings account,1026,100.0,99.31,0.1,18.05,-17.95
+ROBINHOOD MARKETS INC.,Checking or savings account,1000,88.6,99.39,0.0,18.05,-18.05
+KEYCORP,Checking or savings account,874,100.0,99.31,34.21,17.81,16.4
+DISCOVER BANK,Checking or savings account,803,100.0,99.31,28.77,17.85,10.92
+M&T BANK CORPORATION,Checking or savings account,771,100.0,99.31,27.76,17.86,9.9
+"Credit Karma, LLC",Checking or savings account,758,96.04,99.33,44.99,17.76,27.22
+Netspend Corporation,Checking or savings account,730,96.03,99.33,0.0,18.01,-18.01
+"SANTANDER HOLDINGS USA, INC.",Checking or savings account,725,100.0,99.31,0.97,18.0,-17.04
+AMERICAN EXPRESS COMPANY,Checking or savings account,571,98.42,99.32,33.45,17.85,15.6
+FinCo Services Inc DBA Current,Checking or savings account,543,93.55,99.34,11.23,17.94,-6.71
+Comerica,Checking or savings account,512,100.0,99.31,53.71,17.78,35.93
+SYNCHRONY FINANCIAL,Checking or savings account,465,100.0,99.31,7.96,17.95,-9.99
+PENTAGON FEDERAL CREDIT UNION,Checking or savings account,312,100.0,99.31,26.6,17.89,8.71
+TransferWise Ltd,Checking or savings account,187,98.93,99.32,5.35,17.93,-12.58
+BARCLAYS BANK DELAWARE,Checking or savings account,152,100.0,99.31,1.32,17.93,-16.62
+FIRST NATIONAL BANK OF OMAHA,Checking or savings account,138,100.0,99.31,18.12,17.91,0.2
+Synovus Bank,Checking or savings account,105,100.0,99.31,22.86,17.91,4.95
+CAPITAL ONE FINANCIAL CORPORATION,Credit card,16981,99.98,99.55,23.95,30.98,-7.03
+"CITIBANK, N.A.",Credit card,15305,100.0,99.55,54.93,26.46,28.47
+SYNCHRONY FINANCIAL,Credit card,11871,99.76,99.59,25.69,30.47,-4.78
+JPMORGAN CHASE & CO.,Credit card,11227,100.0,99.57,20.8,30.94,-10.14
+AMERICAN EXPRESS COMPANY,Credit card,8664,99.4,99.62,22.73,30.56,-7.83
+"BANK OF AMERICA, NATIONAL ASSOCIATION",Credit card,7523,99.26,99.63,43.85,29.1,14.75
+"Bread Financial Holdings, Inc.",Credit card,5521,100.0,99.59,54.03,28.88,25.15
+DISCOVER BANK,Credit card,5132,100.0,99.59,25.97,30.18,-4.21
+WELLS FARGO & COMPANY,Credit card,4856,99.98,99.59,29.2,30.04,-0.84
+GOLDMAN SACHS BANK USA,Credit card,4402,100.0,99.59,39.62,29.65,9.97
+BARCLAYS BANK DELAWARE,Credit card,3961,100.0,99.59,9.92,30.68,-20.76
+U.S. BANCORP,Credit card,2568,100.0,99.6,42.8,29.73,13.06
+TD BANK US HOLDING COMPANY,Credit card,2256,100.0,99.6,39.76,29.83,9.94
+NAVY FEDERAL CREDIT UNION,Credit card,2200,100.0,99.6,23.91,30.12,-6.21
+"CLGF Holdco 1, LLC",Credit card,1830,99.51,99.61,35.74,29.92,5.82
+Atlanticus Services Corporation,Credit card,1081,100.0,99.6,56.15,29.78,26.38
+Chime Financial Inc,Credit card,1059,100.0,99.6,13.5,30.15,-16.65
+UNITED SERVICES AUTOMOBILE ASSOCIATION,Credit card,741,100.0,99.6,15.52,30.1,-14.58
+"Block, Inc.",Credit card,716,94.13,99.64,2.09,30.17,-28.08
+TRUIST FINANCIAL CORPORATION,Credit card,626,99.68,99.61,15.65,30.08,-14.43
+"Continental Finance Company, LLC",Credit card,625,100.0,99.6,0.0,30.16,-30.16
+"Paypal Holdings, Inc",Credit card,604,100.0,99.6,27.15,30.02,-2.87
+Synovus Bank,Credit card,551,100.0,99.6,21.6,30.05,-8.45
+"Avant Holding Company, Inc.",Credit card,548,99.45,99.61,0.73,30.14,-29.41
+Self Financial Inc.,Credit card,529,99.62,99.61,0.76,30.13,-29.38
+FIRST NATIONAL BANK OF OMAHA,Credit card,524,99.81,99.61,19.85,30.05,-10.2
+"Affirm Holdings, Inc",Credit card,468,100.0,99.61,0.0,30.12,-30.12
+PNC Bank N.A.,Credit card,428,100.0,99.61,10.75,30.08,-19.33
+ALLY FINANCIAL INC.,Credit card,388,100.0,99.61,17.01,30.05,-13.04
+BMO BANK NATIONAL ASSOCIATION,Credit card,313,100.0,99.61,33.55,30.0,3.55
+"CITIZENS FINANCIAL GROUP, INC.",Credit card,287,100.0,99.61,20.91,30.03,-9.12
+PENTAGON FEDERAL CREDIT UNION,Credit card,250,100.0,99.61,21.6,30.03,-8.43
+FIFTH THIRD FINANCIAL CORPORATION,Credit card,236,100.0,99.61,13.98,30.04,-16.06
+"SOFI TECHNOLOGIES, INC.",Credit card,215,100.0,99.61,13.02,30.04,-17.01
+ROBINHOOD MARKETS INC.,Credit card,198,98.99,99.61,0.0,30.06,-30.06
+FinCo Services Inc DBA Current,Credit card,159,86.79,99.62,5.66,30.04,-24.38
+"SANTANDER HOLDINGS USA, INC.",Credit card,136,100.0,99.61,11.03,30.03,-19.0
+REGIONS FINANCIAL CORPORATION,Credit card,122,100.0,99.61,28.69,30.01,-1.32
+KEYCORP,Credit card,106,100.0,99.61,29.25,30.01,-0.76
+"Block, Inc.",Money transfer / virtual currency,44495,98.85,98.41,0.02,9.63,-9.62
+"Early Warning Services, LLC",Money transfer / virtual currency,20186,100.0,98.26,0.0,6.75,-6.75
+"Paypal Holdings, Inc",Money transfer / virtual currency,8550,99.96,98.48,28.91,3.24,25.67
+JPMORGAN CHASE & CO.,Money transfer / virtual currency,3357,100.0,98.56,5.09,5.42,-0.32
+WELLS FARGO & COMPANY,Money transfer / virtual currency,2677,100.0,98.57,8.03,5.34,2.69
+"BANK OF AMERICA, NATIONAL ASSOCIATION",Money transfer / virtual currency,2528,99.64,98.58,23.62,4.94,18.67
+"Coinbase, Inc.",Money transfer / virtual currency,2314,99.31,98.59,22.56,5.01,17.55
+Chime Financial Inc,Money transfer / virtual currency,2088,100.0,98.57,5.7,5.4,0.3
+ROBINHOOD MARKETS INC.,Money transfer / virtual currency,1560,87.12,98.78,0.0,5.49,-5.49
+"CITIBANK, N.A.",Money transfer / virtual currency,700,99.86,98.6,21.71,5.29,16.42
+TransferWise Ltd,Money transfer / virtual currency,686,95.34,98.63,10.5,5.37,5.12
+"WESTERN UNION COMPANY, THE",Money transfer / virtual currency,684,100.0,98.59,1.17,5.44,-4.27
+CAPITAL ONE FINANCIAL CORPORATION,Money transfer / virtual currency,553,100.0,98.6,9.04,5.39,3.65
+NAVY FEDERAL CREDIT UNION,Money transfer / virtual currency,482,100.0,98.6,18.26,5.35,12.91
+"Foris DAX, Inc.",Money transfer / virtual currency,461,100.0,98.6,1.08,5.43,-4.34
+Winklevoss Exchange LLC,Money transfer / virtual currency,455,98.9,98.6,0.0,5.43,-5.43
+PNC Bank N.A.,Money transfer / virtual currency,423,100.0,98.6,5.91,5.41,0.5
+TRUIST FINANCIAL CORPORATION,Money transfer / virtual currency,360,99.72,98.6,5.83,5.41,0.43
+U.S. BANCORP,Money transfer / virtual currency,321,100.0,98.6,20.87,5.36,15.51
+TD BANK US HOLDING COMPANY,Money transfer / virtual currency,290,100.0,98.6,23.45,5.36,18.09
+UNITED SERVICES AUTOMOBILE ASSOCIATION,Money transfer / virtual currency,241,100.0,98.6,10.37,5.4,4.98
+"SOFI TECHNOLOGIES, INC.",Money transfer / virtual currency,229,100.0,98.6,7.86,5.4,2.46
+DISCOVER BANK,Money transfer / virtual currency,192,100.0,98.6,29.17,5.36,23.8
+"CITIZENS FINANCIAL GROUP, INC.",Money transfer / virtual currency,177,100.0,98.6,14.12,5.39,8.73
+ALLY FINANCIAL INC.,Money transfer / virtual currency,159,100.0,98.6,32.08,5.37,26.71
+FIFTH THIRD FINANCIAL CORPORATION,Money transfer / virtual currency,147,100.0,98.6,6.12,5.41,0.72
+SYNCHRONY FINANCIAL,Money transfer / virtual currency,144,98.61,98.6,24.31,5.38,18.92
+GOLDMAN SACHS BANK USA,Money transfer / virtual currency,115,100.0,98.6,8.7,5.4,3.29
+"HUNTINGTON NATIONAL BANK, THE",Money transfer / virtual currency,114,100.0,98.6,23.68,5.39,18.3
+AMERICAN EXPRESS COMPANY,Money transfer / virtual currency,110,98.18,98.6,26.36,5.38,20.98

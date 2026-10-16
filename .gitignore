@@ -1,0 +1,7 @@
+data/
+*.pbix
+__pycache__/
+.DS_Store
+~$*
+*.pbix.bak
+_upload_ready/
