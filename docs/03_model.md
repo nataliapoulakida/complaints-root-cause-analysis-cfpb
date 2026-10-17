@@ -1,6 +1,6 @@
 # Data model (star schema)
 
-The report runs on a star schema: one fact table with one row per complaint, surrounded by lookup tables ("dimensions"). The tables are built by `python/05_build_model.py` into `data/model/`.
+The report runs on a star schema: one fact table with one row per complaint, surrounded by lookup tables ("dimensions"). The tables are built by `python/05_build_model.py`.
 
 ![Data model](../screenshots/data_model.png)
 

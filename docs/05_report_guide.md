@@ -24,7 +24,7 @@ The report answers one question for a Head of Complaints: **where do customers c
 
 ## 3. Page 1, Overview: what is happening?
 
-!(../screenshots/Overview)
+![Data model](../screenshots/Overview.png)
 
 | Visual | What it shows | How to read it |
 |---|---|---|
