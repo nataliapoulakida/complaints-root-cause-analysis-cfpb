@@ -1,5 +1,4 @@
 # Project brief: where do customers complain, and what should we fix first?
-
 **Author:** Natalia Poulakida | **Status:** Draft v1 | **Date:** 15 Oct 2026
 
 ## 1. Business context
