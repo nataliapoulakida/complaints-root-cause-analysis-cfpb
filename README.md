@@ -2,11 +2,12 @@
 
 A portfolio project in Python, SQL and Power BI, based on 404,353 US consumer complaints from the CFPB database (credit cards, checking and savings accounts, and money transfer, Jan 2024 – Dec 2025).
 
-**Stakeholder:** a Head of Complaints at a bank or fintech. **Case study:** Chime Financial Inc, while the report itself works for any of the 54 companies with at least 500 complaints.
+**Stakeholder:** The Head of Complaints & Customer Operations at a fintech company. 
+**Case study:** Chime Financial Inc; however, the report itself works for any of the 54 companies with at least 500 complaints.
 
 ## Main finding
 
-Chime responds to every complaint on time, but only about 10% of its complaints end in relief for the customer, against about 23% at its peers (outlier-adjusted view). The gap holds in all three products, in all 30 states with at least 100 Chime complaints, and it is widest in money transfer. The data shows where the gap is, not why it exists. The full write-up is in the [findings memo](docs/06_findings_memo.md).
+Chime Financial Inc responds to every complaint on time, but only about 10% of its complaints end in relief for the customer, against about 23% at its peers (outlier-adjusted view). The gap holds in all three products, in all 30 states with at least 100 Chime complaints, and it is widest for the product "Money Transfer, Virtual Currency, or Money Service". The data shows where the gap is, not why it exists. The full write-up is in the [findings memo](docs/06_findings_memo.md).
 
 ## The report
 
