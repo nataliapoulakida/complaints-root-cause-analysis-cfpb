@@ -1,0 +1,221 @@
+FILE: complaints_2024_2025_raw.csv
+Rows: 404,353   Columns: 16
+
+== 1. Duplicates ==
+Duplicate Complaint IDs: 0
+Fully identical rows (ignoring source_file): 0
+
+== 2. Missing values ('None' text or blank) ==
+   86.4%   349,235  Tags
+   61.2%   247,545  Company public response
+   25.1%   101,608  Sub-issue
+    1.0%     4,010  State
+    0.0%         5  Sub-product
+    0.0%         5  Issue
+    0.0%         0  Date received
+    0.0%         0  Product
+    0.0%         0  Company
+    0.0%         0  ZIP code
+    0.0%         0  Submitted via
+    0.0%         0  Date sent to company
+    0.0%         0  Company response to consumer
+    0.0%         0  Timely response?
+    0.0%         0  Complaint ID
+    0.0%         0  source_file
+
+== 3. Distinct values per column ==
+   397,040  Date received
+         3  Product
+        15  Sub-product
+        37  Issue
+        80  Sub-issue
+        11  Company public response
+     1,088  Company
+        62  State
+    17,035  ZIP code
+         4  Tags
+         4  Submitted via
+   398,140  Date sent to company
+         5  Company response to consumer
+         2  Timely response?
+   404,353  Complaint ID
+         6  source_file
+
+== 4. Dates ==
+Date received:        2024-01-01 00:04:58+00:00  to  2025-12-31 23:58:31+00:00  (unparseable: 0)
+Date sent to company: 2024-01-01 00:24:28+00:00  to  2026-08-18 10:45:46+00:00  (unparseable: 0)
+Days from received to sent: median 0.01, mean 1.06, p95 3.15, max 445.82
+Negative gaps (sent before received): 0
+
+== 5. Product by month (check category consistency) ==
+         Checking or savings ac  Credit card  Money transfer, virtua
+month                                                               
+2024-01                    4032         5247                    1286
+2024-02                    3833         5182                    1306
+2024-03                    4257         5889                    1457
+2024-04                    4327         6676                    1285
+2024-05                    4539         6760                    1351
+2024-06                    3886         5535                    1268
+2024-07                    4329         6192                    1328
+2024-08                    4683         7355                    1557
+2024-09                    4270         7185                    1316
+2024-10                    4692         7176                    1450
+2024-11                    5175         6095                    1416
+2024-12                    4798         6697                    1731
+2025-01                   18367         9073                   49743
+2025-02                    5452         6213                    6128
+2025-03                    5070         6255                    3032
+2025-04                    5229         6897                    2504
+2025-05                    5394         7515                    2652
+2025-06                    5557         7364                    2408
+2025-07                    6403         8105                    2823
+2025-08                    6505         7919                    2879
+2025-09                    6141         8504                    2505
+2025-10                    6308         7413                    4193
+2025-11                    6077         6861                    2603
+2025-12                    7692         7859                    3149
+
+== 6. Categorical columns ==
+
+-- Product
+   165,967  Credit card
+   137,016  Checking or savings account
+   101,370  Money transfer, virtual currency, or money service
+
+-- Sub-product
+   148,344  General-purpose credit card or charge card
+   112,650  Checking account
+    62,403  Domestic (US) money transfer
+    23,063  Mobile or digital wallet
+    17,623  Store credit card
+    11,258  Other banking product or service
+    10,335  Savings account
+     8,537  Virtual currency
+     4,405  International money transfer
+     2,767  CD (Certificate of Deposit)
+     1,620  Money order, traveler's check or cashier's check
+       843  Check cashing service
+       499  Foreign currency exchange
+         5  None
+         1  Credit reporting
+
+-- Company public response
+   247,545  None
+   137,437  Company has responded to the consumer and the CFPB and chooses not to provide a public response
+    18,340  Company believes it acted appropriately as authorized by contract or law
+       339  Company believes the complaint provided an opportunity to answer consumer's questions
+       177  Company believes complaint represents an opportunity for improvement to better serve consumers
+       162  Company believes complaint caused principally by actions of third party outside the control or direction of the company
+       147  Company disputes the facts presented in the complaint
+        96  Company believes the complaint is the result of a misunderstanding
+        84  Company believes complaint is the result of an isolated error
+        24  Company can't verify or dispute the facts in the complaint
+         2  Company believes complaint relates to a discontinued policy or procedure
+
+-- Submitted via
+   372,147  Web
+    15,096  Referral
+    14,313  Phone
+     2,797  Postal mail
+
+-- Company response to consumer
+   314,280  Closed with explanation
+    47,978  Closed with non-monetary relief
+    41,738  Closed with monetary relief
+       354  Untimely response
+         3  In progress
+
+-- Timely response?
+   401,522  Yes
+     2,831  No
+
+-- Tags
+   349,235  None
+    27,160  Servicemember
+    22,307  Older American
+     5,651  Older American, Servicemember
+
+== 7. Issue and sub-issue counts by product ==
+
+-- Checking or savings account: 12 issues, 50 sub-issues
+    75,156  Managing an account
+    17,644  Closing an account
+    16,016  Problem with a lender or other company charging your account
+    15,469  Problem caused by your funds being low
+    11,783  Opening an account
+       371  Incorrect information on your report
+       285  Problem with a company's investigation into an existing problem
+       133  Improper use of your report
+
+-- Credit card: 15 issues, 56 sub-issues
+    34,405  Problem with a purchase shown on your statement
+    26,996  Incorrect information on your report
+    20,488  Getting a credit card
+    20,037  Problem with a company's investigation into an existing problem
+    15,185  Other features, terms, or problems
+    14,179  Fees or interest
+    10,497  Closing your account
+     8,743  Problem when making payments
+
+-- Money transfer, virtual currency, or money service: 16 issues, 1 sub-issues
+    56,900  Other transaction problem
+    17,352  Fraud or scam
+     7,418  Unauthorized transactions or other transaction problem
+     4,404  Trouble accessing funds in your mobile or digital wallet
+     4,033  Money was not available when promised
+     2,609  Other service problem
+     2,531  Managing, opening, or closing your mobile wallet account
+     2,330  Confusing or missing disclosures
+
+== 8. State ==
+Rows with two-letter state: 400,320; other values: 4,033
+State
+None                                    4010
+UNITED STATES MINOR OUTLYING ISLANDS      23
+
+== 9. Companies ==
+Distinct company names: 1,088
+Top 20 by complaints:
+    49,742  Block, Inc.
+    30,557  JPMORGAN CHASE & CO.
+    27,510  CAPITAL ONE FINANCIAL CORPORATION
+    22,519  WELLS FARGO & COMPANY
+    22,398  CITIBANK, N.A.
+    21,727  BANK OF AMERICA, NATIONAL ASSOCIATION
+    21,350  Early Warning Services, LLC
+    16,041  NAVY FEDERAL CREDIT UNION
+    15,923  EQUIFAX, INC.
+    14,330  TRANSUNION INTERMEDIATE HOLDINGS, INC.
+    13,660  Experian Information Solutions Inc.
+    12,480  SYNCHRONY FINANCIAL
+    11,305  Chime Financial Inc
+    10,735  Paypal Holdings, Inc
+     9,345  AMERICAN EXPRESS COMPANY
+     6,183  U.S. BANCORP
+     6,127  DISCOVER BANK
+     6,112  GOLDMAN SACHS BANK USA
+     5,621  Bread Financial Holdings, Inc.
+     4,738  TD BANK US HOLDING COMPANY
+Companies with >= 500 complaints: 54
+Companies with < 30 complaints: 872 (share of complaints: 1.0%)
+
+Possible same-company spellings (names that normalise identically):
+  FIRST TECHNOLOGY FEDERAL CREDIT UNION (172) | First Technology Federal Credit Union (156)
+  INDEPENDENT BANK CORP. (28) | INDEPENDENT BANK GROUP, INC. (12)
+
+Companies sharing a first word (review manually, may be different companies):
+  CAPITAL ONE FINANCIAL CORPORATION (27,510) | Capital Accounts, LLC (42) | Capital Management Services, LP (5) | Capital Core Advisors LLC (1) | Capital Credit and Collection Service, Inc. (1)
+  BANK OF AMERICA, NATIONAL ASSOCIATION (21,727) | BANK OF NEW YORK MELLON CORPORATION, THE (206) | BANK OZK (68) | BANK OF HAWAII CORPORATION (58) | Bank of China USA (4)
+  Chime Financial Inc (11,305) | Chime Inc. (166)
+  AMERICAN EXPRESS COMPANY (9,345) | American First Finance, Inc. (19) | AMERICAN HONDA FINANCE CORP (11) | American Credit Acceptance, LLC (5) | American Coradius International LLC (4)
+  SOFI TECHNOLOGIES, INC. (3,666) | SOFI LOCAL CORP (1)
+  UNITED SERVICES AUTOMOBILE ASSOCIATION (3,152) | UNITED BANKSHARES, INC. (33) | UNITED COMMUNITY BANK (20) | United Shore Financial Services, LLC (7) | United Collection Bureau, Inc. (5)
+  FIRST NATIONAL BANK OF OMAHA (672) | FIRST PORTFOLIO SERVICING INC (325) | FIRST CITIZENS BANCSHARES, INC. (280) | FIRST HORIZON BANK (228) | FIRST TECHNOLOGY FEDERAL CREDIT UNION (172)
+  HUNTINGTON NATIONAL BANK, THE (1,487) | Huntington Debt Holding LLC (2)
+  Fidelity National Information Services, Inc. (FNIS) (1,048) | FIDELITY CAPITAL HOLDINGS, INC (11) | Fidelity National Financial, Inc (5)
+  Credit Karma, LLC (926) | CREDIT ACCEPTANCE CORPORATION (31) | Credit Control, LLC (22) | Credit Corp Solutions Inc. (15) | Credit Fresh Holdings Inc (6)
+  WESTERN UNION COMPANY, THE (702) | WESTERN ALLIANCE BANCORPORATION (31)
+  Continental Finance Company, LLC (628) | Continental Services Group, Inc. d/b/a ConServe (3) | Continental Currency Services, Inc. (1)
+  NEW YORK COMMUNITY BANCORP INC (272) | NEW IMAGITAS, INC (2)
+  Mercury Technologies, Inc. (164) | Mercury Financial Intermediate LLC (110)
+  STATE EMPLOYEES’ CREDIT UNION (192) | STATE STREET BANK AND TRUST COMPANY (9) | STATE BANKSHARES, INC. (9) | STATE BANK OF INDIA - NEW YORK BRANCH (6) | State Finance Company (1)

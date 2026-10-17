@@ -1,0 +1,16 @@
+Rows read: 404,353
+Missing values replaced by a label: sub_issue=101,608, state=4,010, issue=5, sub_product=5
+Left as real blanks: tags=349,235, company_public_response=247,545
+Company names: 1,088 raw -> 1,087 after merging case/spacing variants
+   merged 'First Technology Federal Credit Union' -> 'FIRST TECHNOLOGY FEDERAL CREDIT UNION'
+
+Unusual-month rule: modified z-score (median/MAD) > 3.5, per product
+   FLAGGED 2025-01-01  Checking or savings account: 18,367 vs median 5,122 (z=10.84, 3.59x)
+   FLAGGED 2025-01-01  Money transfer / virtual currency: 49,743 vs median 2,070 (z=43.02, 24.04x)
+   FLAGGED 2025-02-01  Money transfer / virtual currency: 6,128 vs median 2,070 (z=3.66, 2.96x)
+   near    2025-12-01  Checking or savings account: 7,692 (z=2.1, 1.5x)
+   near    2025-01-01  Credit card: 9,073 (z=2.27, 1.32x)
+
+Checks passed: 404,353 rows, unique IDs, dates within 2024-2025
+Credit bureau rows: 43,913; companies ranked (>= 500): 54
+timely_flag mean 0.9930; relief_flag mean (with outcome) 0.2219

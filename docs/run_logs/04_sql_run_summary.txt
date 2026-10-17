@@ -1,0 +1,15 @@
+Rows in complaints: 404,353   Focus company: Chime Financial Inc
+
+q01_monthly_volume: 72 rows -> sql/results/q01_monthly_volume.csv
+q02_top_issues: 43 rows -> sql/results/q02_top_issues.csv
+q03_service_by_product: 3 rows -> sql/results/q03_service_by_product.csv
+q04_company_vs_peers: 109 rows -> sql/results/q04_company_vs_peers.csv
+q05_focus_gap_by_quarter: 24 rows -> sql/results/q05_focus_gap_by_quarter.csv
+q06_focus_gap_by_issue: 14 rows -> sql/results/q06_focus_gap_by_issue.csv
+q07_focus_mix_adjusted: 4 rows -> sql/results/q07_focus_mix_adjusted.csv
+q08_focus_by_channel: 4 rows -> sql/results/q08_focus_by_channel.csv
+q09_focus_by_response_type: 9 rows -> sql/results/q09_focus_by_response_type.csv
+q13_focus_vs_peers_outlier_adjusted: 3 rows -> sql/results/q13_focus_vs_peers_outlier_adjusted.csv
+q10_flagged_months_by_company: 18 rows -> sql/results/q10_flagged_months_by_company.csv
+q11_flagged_months_by_issue: 15 rows -> sql/results/q11_flagged_months_by_issue.csv
+q12_reconciliation_totals: 9 rows -> sql/results/q12_reconciliation_totals.csv
