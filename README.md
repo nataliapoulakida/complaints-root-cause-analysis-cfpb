@@ -3,6 +3,7 @@
 A portfolio project in Python, SQL and Power BI, based on 404,353 US consumer complaints from the CFPB database (credit cards, checking and savings accounts, and money transfer, Jan 2024 – Dec 2025).
 
 **Stakeholder:** The Head of Complaints & Customer Operations at a fintech company. 
+
 **Case study:** Chime Financial Inc; however, the report itself works for any of the 54 companies with at least 500 complaints.
 
 ## Main finding
