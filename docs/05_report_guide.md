@@ -35,6 +35,8 @@ The report answers one question for a Head of Complaints: **where do customers c
 
 ## 4. Page 2, Root Causes: why?
 
+![Data model](../screenshots/Root_Causes.png)
+
 | Visual | What it shows | How to read it |
 |---|---|---|
 | **Issue Share %** | The top 10 issues' share of complaints in the selected product. | Choose one product to see which issue dominates it. With *All* products it mixes products, so prefer a single product. It counts all months and does not change with Mode. |
@@ -42,6 +44,8 @@ The report answers one question for a Head of Complaints: **where do customers c
 | **Relief rate by issue** | The company's relief % and the peer relief % for each top issue. | Look for issues where the blue bar is much shorter than the grey one. A missing blue bar means that the focus company has no relief cases for that issue. |
 
 ## 5. Page 3, Focus vs Peers: how does it compare?
+
+![Data model](../screenshots/Focus_vs_Peers.png)
 
 | Visual | What it shows | How to read it |
 |---|---|---|
