@@ -24,6 +24,8 @@ The report answers one question for a Head of Complaints: **where do customers c
 
 ## 3. Page 1, Overview: what is happening?
 
+!(../screenshots/Overview)
+
 | Visual | What it shows | How to read it |
 |---|---|---|
 | **Complaints and outcomes by product** | Complaints, % responded on time, relief % and monetary relief % for each product. | Compare the measures between products. |
